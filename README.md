@@ -25,3 +25,12 @@ I deleted some font family text so that there wasn't a long list of fonts.
 
 
 # Screenshot of the webpage
+<<<<<<< HEAD
+=======
+
+![horiseonsnip1](https://user-images.githubusercontent.com/117928966/217622196-e9436caa-d26a-48d7-b8b2-31f33dedc336.png)
+
+![horiseonsnip2](https://user-images.githubusercontent.com/117928966/217622235-fa0d7f4b-9e49-43e8-80b1-e5317354f945.png)
+
+![horiseonsnip3](https://user-images.githubusercontent.com/117928966/217622258-069c135d-1e2f-4620-8c4f-012068aa57db.png)
+>>>>>>> 99f41864e5b51fc23617e2a76519247061996b81
