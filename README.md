@@ -25,4 +25,3 @@ I deleted some font family text so that there wasn't a long list of fonts.
 
 
 # Screenshot of the webpage
-
