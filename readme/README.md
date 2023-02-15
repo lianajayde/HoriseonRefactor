@@ -9,6 +9,7 @@ This website explains the different ways to promote a business, such as being ab
 post about your buisness on social media.
 It explains how social media can help improve your business. 
 
+
 # What changes were made to refactor the code
 
 I updated the webpage by following the acceptance criteria's listed.
@@ -20,9 +21,11 @@ I updated the title of the webpage.
 I combined common selectors to shorten lines of code.
 
 I added different semantic tags where they could be needed.
-
+ 
 I deleted some font family text so that there wasn't a long list of fonts.
 
+# Deployed Webpage
+https://lianajayde.github.io/HoriseonRefactor/
 
 # Screenshot of the webpage
 <<<<<<< HEAD
